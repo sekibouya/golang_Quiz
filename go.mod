@@ -1,3 +1,3 @@
-module github.com/sekibouya/go_Quiz.git
+module github.com/sekibouya/golang_Quiz
 
 go 1.21.6
